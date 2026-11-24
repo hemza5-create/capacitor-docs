@@ -3,7 +3,7 @@ title: Installing Capacitor
 description: Installing Capacitor
 slug: /getting-started
 ---
-
+6
 # Installing Capacitor
 
 You can create a new Capacitor application or add Capacitor to your existing web project. This can be done via CLI or using the community-maintained [VS Code extension](/main/getting-started/vscode-extension.mdx).
